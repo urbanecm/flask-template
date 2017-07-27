@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
 import flask
-import mwoauth
 import os
 import yaml
 
